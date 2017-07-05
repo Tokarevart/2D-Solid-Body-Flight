@@ -1,0 +1,13 @@
+F:\Programming\Программы\C#\2D Solid Body Flight\2D Solid Body Flight\bin\Release\2D Solid Body Flight.exe.config
+F:\Programming\Программы\C#\2D Solid Body Flight\2D Solid Body Flight\bin\Release\2D Solid Body Flight.exe
+F:\Programming\Программы\C#\2D Solid Body Flight\2D Solid Body Flight\bin\Release\2D Solid Body Flight.pdb
+F:\Programming\Программы\C#\2D Solid Body Flight\2D Solid Body Flight\obj\Release\MainWindow.g.cs
+F:\Programming\Программы\C#\2D Solid Body Flight\2D Solid Body Flight\obj\Release\App.g.cs
+F:\Programming\Программы\C#\2D Solid Body Flight\2D Solid Body Flight\obj\Release\2D Solid Body Flight_MarkupCompile.cache
+F:\Programming\Программы\C#\2D Solid Body Flight\2D Solid Body Flight\obj\Release\2D Solid Body Flight_MarkupCompile.lref
+F:\Programming\Программы\C#\2D Solid Body Flight\2D Solid Body Flight\obj\Release\MainWindow.baml
+F:\Programming\Программы\C#\2D Solid Body Flight\2D Solid Body Flight\obj\Release\2D Solid Body Flight.g.resources
+F:\Programming\Программы\C#\2D Solid Body Flight\2D Solid Body Flight\obj\Release\_2D_Solid_Body_Flight.Properties.Resources.resources
+F:\Programming\Программы\C#\2D Solid Body Flight\2D Solid Body Flight\obj\Release\2D Solid Body Flight.csproj.GenerateResource.Cache
+F:\Programming\Программы\C#\2D Solid Body Flight\2D Solid Body Flight\obj\Release\2D Solid Body Flight.exe
+F:\Programming\Программы\C#\2D Solid Body Flight\2D Solid Body Flight\obj\Release\2D Solid Body Flight.pdb
