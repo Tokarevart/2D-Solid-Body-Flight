@@ -10,8 +10,6 @@ namespace _2D_Solid_Body_Flight
         public static double scale = 1, startTime, Vel0X, Vel0Y, Y0, stopTime;
         public static bool timerFlag = false, progStarted = false;
         DispatcherTimer tmr = new DispatcherTimer();
-        double[] TrajPointsX = new double[0];
-        double[] TrajPointsY = new double[0];
 
         public MainWindow()
         {
