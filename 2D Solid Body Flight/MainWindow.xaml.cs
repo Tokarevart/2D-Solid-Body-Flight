@@ -225,7 +225,7 @@ namespace _2D_Solid_Body_Flight
                 tmr.Tick += new EventHandler((o, ev) =>
                             {
                                 body.Margin = new Thickness(67 + PixelXYRelTo0("x"), 497 - Y0 * 100 * scale - PixelXYRelTo0("y"), 0, 0);
-                                if (body.Margin.Left + body.Width > coorGrid.Width || body.Margin.Top < 0) body.Visibility = Visibility.Hidden;
+                                if (body.Margin.Left + body.Width > mainWindow.Width - 8 || body.Margin.Top < 0) body.Visibility = Visibility.Hidden;
                                 else body.Visibility = Visibility.Visible;
                                 moveTimetb.Text = Convert.ToString(t());
                                 Xtb.Text = Convert.ToString(MatXY("x"));
